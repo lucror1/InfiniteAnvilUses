@@ -1,9 +1,9 @@
 {
 	"required": true,
-	"package": "com.example.mixin.client",
+	"package": "io.github.lucror1.infiniteanviluses.mixin.client",
 	"compatibilityLevel": "JAVA_17",
 	"client": [
-		"ExampleClientMixin"
+		"MixinAnvilForgingScreen"
 	],
 	"injectors": {
 		"defaultRequire": 1
